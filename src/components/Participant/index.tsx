@@ -1,5 +1,5 @@
-import { Text, TouchableOpacity, View } from "react-native";
-import { styles } from "./styles";
+import { Text, TouchableOpacity, View } from 'react-native'
+import { styles } from './styles'
 
 type Props = {
     name: string;
